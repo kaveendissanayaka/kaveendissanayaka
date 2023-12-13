@@ -1,9 +1,5 @@
-<h1 align="center">Hi 
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Kaveen Dissanayaka</h1>
-<h3 align="center">A passionate Software developer from SriLanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveendissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendissanayaka" /> </p>
-
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -11,13 +7,23 @@
 
 
 
+<h1 align="center">Hi 
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Kaveen Dissanayaka</h1>
+<h3 align="center">A passionate Software developer from SriLanka</h3>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveendissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="kaveendissanayaka" /> </p>
+
+
+
 - 🌱 I’m currently learning **Java, Mern**
 
 - ⚡ Fun fact **they call me Kav**
-  <p align="center">
+  
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaveendissanayaka&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaveendissanayaka&theme=radical)](https://git.io/streak-stats) 
-</p>
+
 
 
 
