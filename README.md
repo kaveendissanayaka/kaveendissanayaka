@@ -14,10 +14,10 @@
 - 🌱 I’m currently learning **Java, Mern**
 
 - ⚡ Fun fact **they call me Kav**
-
+  <p align="center">
 ![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaveendissanayaka&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaveendissanayaka&theme=radical)](https://git.io/streak-stats) 
-
+</p>
 
 
 
