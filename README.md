@@ -17,9 +17,6 @@
 
 
 
-- 🌱 I’m currently learning **Java, Mern**
-
-- ⚡ Fun fact **they call me Kav**
   
 
 <p align="center">
