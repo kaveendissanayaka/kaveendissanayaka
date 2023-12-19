@@ -8,8 +8,8 @@
 
 
 <h1 align="center">Hi 
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Kaveen Dissanayaka</h1>
-<h3 align="center">A passionate Software developer from SriLanka</h3>
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Kaveen </h1>
+<h3 align="center">Hello there!I'm a passionate Software developer from SriLanka.<br>I'm Currently Learning Node js,React and java.</h3>
 
 
 
@@ -34,11 +34,15 @@
 
 
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://instagram.com/kaveen.dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaveen.dissanayaka" height="30" width="40" /></a>
-</p>
+<div align ="center">
 
+  ## 📫 &nbsp;Let's Connect
+
+  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
+  [![Gmail Badge](https://img.shields.io/badge/-kaveenofficials@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/-kaveen.dissanayaka-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_punsaraaa____/)&nbsp;
+
+</div>
 
 
 
